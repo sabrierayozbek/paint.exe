@@ -1,0 +1,10 @@
+C:\Users\erayo\source\repos\NDPProjeSolution\NDPProjeSolution\bin\Debug\NDPProjeSolution.exe.config
+C:\Users\erayo\source\repos\NDPProjeSolution\NDPProjeSolution\bin\Debug\NDPProjeSolution.exe
+C:\Users\erayo\source\repos\NDPProjeSolution\NDPProjeSolution\bin\Debug\NDPProjeSolution.pdb
+C:\Users\erayo\source\repos\NDPProjeSolution\NDPProjeSolution\obj\Debug\NDPProjeSolution.csprojResolveAssemblyReference.cache
+C:\Users\erayo\source\repos\NDPProjeSolution\NDPProjeSolution\obj\Debug\NDPProjeSolution.Form1.resources
+C:\Users\erayo\source\repos\NDPProjeSolution\NDPProjeSolution\obj\Debug\NDPProjeSolution.Properties.Resources.resources
+C:\Users\erayo\source\repos\NDPProjeSolution\NDPProjeSolution\obj\Debug\NDPProjeSolution.csproj.GenerateResource.Cache
+C:\Users\erayo\source\repos\NDPProjeSolution\NDPProjeSolution\obj\Debug\NDPProjeSolution.csproj.CoreCompileInputs.cache
+C:\Users\erayo\source\repos\NDPProjeSolution\NDPProjeSolution\obj\Debug\NDPProjeSolution.exe
+C:\Users\erayo\source\repos\NDPProjeSolution\NDPProjeSolution\obj\Debug\NDPProjeSolution.pdb
